@@ -18,3 +18,8 @@ This is a simple Python-based virtual assistant that can perform various tasks s
 ```bash
 pip install SpeechRecognition pyttsx3 opencv-python wikipedia-api pyaudio
 ```
+
+
+# [Still working on it]
+ 
+ details will be provided soon...
