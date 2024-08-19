@@ -14,6 +14,12 @@ This is a simple Python-based virtual assistant that can perform various tasks s
 - **Command Recognition**: Recognizes variations of commands for a more natural interaction.
 
 ## Installation
+First clone the repository
+
+```bash
+git clone https://github.com/Onnesok/python-virtual-assistant.git
+```
+Install packages / libraries
 
 ```bash
 pip install SpeechRecognition pyttsx3 opencv-python wikipedia-api pyaudio
